@@ -5,7 +5,7 @@ Javascript con React. He conocido, estudiado y practicado,
 backend con nodejs, UI con Figma, pero actualmente me dedico
 al 100% como frontend developer.
 
-Acualmene aprendo MongoDB 
+Acualmene aprendo GO 
 
 <!---
 OrlinSamuelPerez/OrlinSamuelPerez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
